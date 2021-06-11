@@ -1,0 +1,8 @@
+{
+  "name": "codesee-triage",
+  "workspaces": {
+    "packages": [
+      "./decorators"
+    ]
+  }
+}
